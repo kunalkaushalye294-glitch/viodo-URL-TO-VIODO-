@@ -1,0 +1,6 @@
+{
+  "name": "ShortScope",
+  "description": "Analyze viral short-form videos, Facebook Reels, and clips using Gemini 4 Neon video understanding to extract hooks, pacing, key moments, transcripts, and remix ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
